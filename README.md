@@ -32,8 +32,8 @@ Apaixonado por tecnologia, desenhar e por buscar melhorias atrav√©s da programa√
 </div>
 
 <div align="right">  
-
 <img src="dev.gif" alt="Computer man" style="width:300px;height:300px;">
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=123&color=00009d&fontAlign=57&section=footer"/>
 
