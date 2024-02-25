@@ -32,7 +32,7 @@ Apaixonado por tecnologia, desenhar e por buscar melhorias atrav√©s da programa√
 </div>
 
 <div align="right">  
-<img src="dev.gif" alt="Computer man" style="width:300px;height:300px;">
+<img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="400" height="400" alt="sharp logo" align="right">
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=123&color=00009d&fontAlign=57&section=footer"/>
