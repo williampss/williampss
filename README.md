@@ -30,3 +30,11 @@ Apaixonado por tecnologia, desenhar e por buscar melhorias atrav√©s da programa√
   <a href = "mailto:contatowilliampatriciodosantos28@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/william-patricio-dos-santos-170749250" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<div align="right">  
+
+<img src="dev.gif" alt="Computer man" style="width:300px;height:300px;">
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=123&color=00009d&fontAlign=57&section=footer"/>
+
+
